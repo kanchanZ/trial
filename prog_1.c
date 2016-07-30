@@ -2,5 +2,5 @@
 
 int main()
 {
-   int a,b;
+   printf("my name is kanchan");
 }
